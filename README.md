@@ -21,7 +21,7 @@ I am currently learning and solving problems based on the **Tree pattern**.
 - Stack
 - Recursion
 - Backtracking
-- Trees
+
 
 ## Connect
 
