@@ -13,3 +13,7 @@ class Solution {
         return res;
     }
 }
+
+//TC:-O(n)
+//Recursive Stack Space:-O(h)
+//where h=height of tree,n=number of nodes
